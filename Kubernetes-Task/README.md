@@ -1,0 +1,1 @@
+Setup Minikube on AWS EC2 using Docker and Kubectl, created development and production namespaces, deployed Nginx pods in both namespaces, and successfully verified the Kubernetes cluster, nodes, namespaces, and running pods.
